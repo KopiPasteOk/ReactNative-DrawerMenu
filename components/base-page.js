@@ -40,7 +40,7 @@ export default class BasePage extends React.Component {
 
   _renderLeftDrawerContent = () => {
     return (
-      <SafeAreaView style={styles.drawerContainer}>
+      <View style={styles.drawerContainer}>
         <View style={styles.drawerBody}>
           {/* DRAWER IMAGE */}
           <View style={styles.headerImageContainer}>
@@ -73,7 +73,7 @@ export default class BasePage extends React.Component {
             </TouchableOpacity>
           </View>
         </View>
-      </SafeAreaView>
+      </View>
     );
   };
 
