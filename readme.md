@@ -1,6 +1,6 @@
 ## REACT NATIVE CLI DRAWER MENU
 
-![](https://github.com/programmer-indonesia/RN_CLI_drawer_menu/blob/master/screenshoot.png =100x)
+![](https://github.com/programmer-indonesia/RN_CLI_drawer_menu/blob/master/screenshoot.png)
 
 
 ##### Information
