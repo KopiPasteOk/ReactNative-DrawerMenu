@@ -1,5 +1,8 @@
 ## REACT NATIVE CLI DRAWER MENU
 
+![]('https://github.com/programmer-indonesia/RN_CLI_drawer_menu/blob/master/screenshoot.png')
+
+
 ##### Information
 - This project build use React Native CLI 
 - This project can compile to Android and IOS
